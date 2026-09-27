@@ -13,7 +13,7 @@ import {
   Legend,
 } from "recharts";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://digital-payment-fraud-detection-z2r8.onrender.com";
 
 const initialTransaction = {
   step: 1,
