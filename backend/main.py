@@ -95,6 +95,7 @@ frontend_url = os.getenv(
 allowed_origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://digital-payment-fraud-detection-1.onrender.com",
 ]
 
 if frontend_url:
@@ -107,7 +108,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 # ==========================================================
 # BATCH JOB STORAGE
