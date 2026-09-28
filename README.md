@@ -509,9 +509,9 @@ Jaya Krishna Uppu
 
 GitHub:
 
-https://github.com/thisisjknaidu
+https://github.com/itsmejknaidu
 
 Repository:
 
-https://github.com/thisisjknaidu/digital-payment-fraud-detection
+https://github.com/itsmejknaidu/digital-payment-fraud-detection
 ```
